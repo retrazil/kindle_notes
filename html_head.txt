@@ -1,0 +1,10 @@
+<html>
+                <head>
+                        <title>Kindle Clippings</title>
+                </head>
+                <body style="padding: 10px; 
+                             margin: auto; 
+                             max-width:800px; 
+                             font-size: 14px;">
+                <pre style="white-space: pre-wrap">
+
