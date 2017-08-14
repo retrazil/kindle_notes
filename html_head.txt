@@ -1,12 +1,12 @@
 <html>
                 <head>
                         <meta charset="UTF-8">
+                        <meta name="viewport" content="width=360">
                         <title>Kindle Clippings</title>
                 </head>
                 <body style="padding: 10px; 
                              margin: auto; 
                              max-width:80%; 
                              font-size: 14px;">
-                <pre style="white-space: pre-wrap;
-                            word-wrap: break-word;">
+                <pre style="white-space: pre-wrap;">
 
